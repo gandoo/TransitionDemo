@@ -1,4 +1,4 @@
 TransitionDemo
 ==============
 
-Small transition menu demo. Google Map style and some CSS3 keyframes animations
+Small transition menu demo. Custom styled Google Map with marker and info boxon click and some CSS3 keyframes animations.
